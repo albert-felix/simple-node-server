@@ -10,3 +10,9 @@ This project has been done using the following:
 * [node.js]
 * [nodemon]
 * [yarn]
+
+### Run
+To start the server type the following in the terminal
+```sh
+$ yarn start
+```
